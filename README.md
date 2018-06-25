@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/python-2.x-orange.svg)
+![MIT](https://img.shields.io/github/license/mashape/apistatus.svg)
+![Type](https://img.shields.io/badge/Machine-Learning-red.svg) ![Type](https://img.shields.io/badge/Type-Spervised-yellow.svg)
+![Status](https://img.shields.io/badge/Status-Completed-yellowgreen.svg)
+
 ### Install
 
 This project requires **Python 3.1** and the following Python libraries installed:
